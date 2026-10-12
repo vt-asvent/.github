@@ -8,10 +8,10 @@ Creamos apps y herramientas digitales para Perú y Latinoamérica, pensadas para
 
 | Proyecto | Qué es | Estado |
 |---|---|---|
-| [**Frame**](https://github.com/vt-asvent/Frame) | Sistema operativo de estudio para Windows: asignaturas, tareas, hábitos, sesiones de estudio, música y Google en un solo lugar. Funciona sin conexión. | Activo · v1.6.1 · [descargar](https://gasparrojasdiego.github.io/frame-app/) |
-| **Frame móvil** | Frame para tablets y teléfonos Android. | Activo |
+| [**Frame**](https://github.com/vt-asvent/Frame) | Sistema operativo de estudio para Windows: asignaturas, tareas, hábitos, sesiones de estudio, música y Google en un solo lugar. Funciona sin conexión. | Activo · Windows y Android · [descargar](https://gasparrojasdiego.github.io/frame-app/) |
+| **Frame móvil** | Frame para tablets y teléfonos Android, con los mismos datos que en Windows. | Activo |
 | [**Frame Descargas**](https://github.com/vt-asvent/frame-descargas) | Motor local que acompaña a la página Frame Descargas. | Activo |
-| **Aether OS** | La primera versión de Frame (Electron + Next.js). Se conserva como registro del camino recorrido. | Archivado |
+| [**Aether OS**](https://github.com/vt-asvent/Aether-OS) | La primera versión de Frame (Electron + Next.js). Se conserva como registro del camino recorrido. | Archivado |
 
 ## Cómo trabajamos
 
